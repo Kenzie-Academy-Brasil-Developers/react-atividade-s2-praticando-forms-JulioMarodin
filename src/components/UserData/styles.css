@@ -1,0 +1,15 @@
+.userData {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.userData p {
+  background-color: #0077b6;
+  width: 300px;
+  margin-top: 10px;
+  margin-left: 50%;
+  transform: translateX(-50%);
+  border-radius: 5px;
+}
